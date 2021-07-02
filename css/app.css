@@ -1,6 +1,7 @@
 
 body {
-    background-color: #0d2235;
+    background: rgb(199,198,145);
+background: linear-gradient(90deg, rgba(199,198,145,1) 0%, rgba(118,9,121,1) 53%, rgba(0,212,255,1) 100%);
 }
 img {
     max-width: 100%;
